@@ -1,0 +1,12 @@
+asyncio
+pandas
+python-docx
+openpyxl
+autogen
+autogen-ext[openai]
+autogen-agentchat
+langgraph
+tiktoken
+openai
+PyPDF2
+python-dotenv
